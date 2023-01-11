@@ -1,5 +1,3 @@
-title: [Overview projects]
-
 ### **Graph based modeling for intelligent monitoring**
 [link :link:](https://github.com/aaronfderybel/graph-based-intrusion-detection)
 
