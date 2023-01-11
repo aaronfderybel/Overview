@@ -13,8 +13,7 @@ Graphs are valid representations of information containing some inherent netwerk
 
 ![](assets/pingscan.png)
 
-## Instance segmentation web app
-[link :link:](https://github.com/aaronfderybel/instance-segmentation-web-app)
+**Instance segmentation web app** [link :link:](https://github.com/aaronfderybel/instance-segmentation-web-app)
 
 A simple local run web-app to perform instance segmenetation on pictures.
 * Uses YOLOv7 algorithm for fast detection.
