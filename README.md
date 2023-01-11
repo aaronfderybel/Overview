@@ -1,6 +1,6 @@
 # Overview
 
-## Graph based modeling for intelligent monitoring 
+**Graph based modeling for intelligent monitoring**
 [link :link:](https://github.com/aaronfderybel/graph-based-intrusion-detection)
 
 Detecting malicious actions on a computer network with the use of artificial intelligence is called intelligent monitoring.
